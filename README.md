@@ -1,3 +1,4 @@
+Planning to upgrade to angular 7...
 
 ### ngx-carousel-3d
 
